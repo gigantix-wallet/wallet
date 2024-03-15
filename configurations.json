@@ -15,7 +15,8 @@
       "aurora": "0xc9bA77C9b27481B6789840A7C3128D4f691f8296",
       "goerli": "0x694be3BCecAf1dD69ba91D21c54E22C87882a595",
       "sepolia": "0x5D88da6682B9088B9e31c900Be850de20cF20B11",
-      "bsctestnet": "0xc9bA77C9b27481B6789840A7C3128D4f691f8296"
+      "bsctestnet": "0xc9bA77C9b27481B6789840A7C3128D4f691f8296",
+      "base": "0xFCaCC92d23Ed4953566A1a532BeEB31b51931B85"
     },
     "chains": {
       "ethereum": "ethereum",
@@ -32,7 +33,8 @@
       "aurora": "aurora",
       "goerli": "goerli",
       "sepolia": "sepolia",
-      "bsctestnet": "bsctestnet"
+      "bsctestnet": "bsctestnet",
+      "base": "base"
     },
     "rpc": {
       "ethereum": "https://ethereum.publicnode.com",
@@ -49,7 +51,8 @@
       "aurora": "https://1rpc.io/aurora",
       "goerli": "https://ethereum-goerli.publicnode.com",
       "sepolia": "https://1rpc.io/sepolia",
-      "bsctestnet": "https://bsc-testnet.publicnode.com"
+      "bsctestnet": "https://bsc-testnet.publicnode.com",
+      "base": "https://base-rpc.publicnode.com"
     },
     "wss": {
       "ethereum": "wss://ethereum.publicnode.com",
@@ -66,7 +69,8 @@
       "aurora": "wss://1rpc.io/aurora",
       "goerli": "wss://ethereum-goerli.publicnode.com",
       "sepolia": "wss://1rpc.io/sepolia",
-      "bsctestnet": "wss://bsc-testnet.publicnode.com"
+      "bsctestnet": "wss://bsc-testnet.publicnode.com",
+      "base": "wss://base-rpc.publicnode.com"
     },
     "explorer": {
       "ethereum": "https://etherscan.io",
@@ -83,7 +87,8 @@
       "aurora": "https://explorer.aurora.dev",
       "goerli": "https://goerli.etherscan.io",
       "sepolia": "https://sepolia.etherscan.io",
-      "bsctestnet": "https://testnet.bscscan.com"
+      "bsctestnet": "https://testnet.bscscan.com",
+      "base": "https://basescan.org"
     }
   },
   "app": {
