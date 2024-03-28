@@ -97,6 +97,7 @@
     "build_number_ios": "83",
     "build_number_android": "84",
     "version_note": "<p>What&#39;s new ?</p><p>- Staking Calculator</p><p>- Balance Enhancement</p>",
-    "reset_settings": true
+    "reset_settings": true,
+    "reset_version": "2.3.1"
   }
 }
