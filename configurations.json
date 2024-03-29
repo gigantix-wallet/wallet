@@ -16,7 +16,8 @@
       "goerli": "0x694be3BCecAf1dD69ba91D21c54E22C87882a595",
       "sepolia": "0x5D88da6682B9088B9e31c900Be850de20cF20B11",
       "bsctestnet": "0xc9bA77C9b27481B6789840A7C3128D4f691f8296",
-      "base": "0xFCaCC92d23Ed4953566A1a532BeEB31b51931B85"
+      "base": "0xFCaCC92d23Ed4953566A1a532BeEB31b51931B85",
+      "telos": "0x90BdBC12364979a7807F80c484d39B5b0643c9f1"
     },
     "chains": {
       "ethereum": "ethereum",
@@ -34,7 +35,27 @@
       "goerli": "goerli",
       "sepolia": "sepolia",
       "bsctestnet": "bsctestnet",
-      "base": "base"
+      "base": "base",
+      "telos": "telos"
+    },
+    "chainNames": {
+      "ethereum": "Ethereum Mainnet",
+      "arbitrum": "Arbitrum One",
+      "optimism": "OP Mainnet",
+      "polygon": "Polygon Mainnet",
+      "celo": "Celo Mainnet",
+      "gnosis": "Gnosis",
+      "harmonyOne": "Harmony Mainnet Shard 0",
+      "moonbeam": "Moonbeam",
+      "avalanchec": "Avalanche C-Chain",
+      "fantom": "Fantom Opera",
+      "smartchain": "BNB Smart Chain",
+      "aurora": "Aurora Mainnet",
+      "goerli": "Goerli",
+      "sepolia": "Sepolia",
+      "bsctestnet": "BNB Smart Chain Testnet",
+      "base": "Base",
+      "telos": "Telos EVM Mainnet"
     },
     "rpc": {
       "ethereum": "https://ethereum.publicnode.com",
@@ -88,15 +109,16 @@
       "goerli": "https://goerli.etherscan.io",
       "sepolia": "https://sepolia.etherscan.io",
       "bsctestnet": "https://testnet.bscscan.com",
-      "base": "https://basescan.org"
+      "base": "https://basescan.org",
+      "telos": "https://www.teloscan.io"
     }
   },
   "app": {
-    "version_ios": "2.3.1",
-    "version_android": "2.3.1.103",
-    "build_number_ios": "83",
-    "build_number_android": "84",
-    "version_note": "<p>What&#39;s new ?</p><p>- Staking Calculator</p><p>- Balance Enhancement</p>",
+    "version_ios": "2.3.3",
+    "version_android": "2.3.3.111",
+    "build_number_ios": "109",
+    "build_number_android": "111",
+    "version_note": "<p>What&#39;s new ?</p><p>- Staking as a service</p><p>- Bug fixed to update the balance after your assets are managed</p>",
     "reset_settings": true,
     "reset_version": "2.3.1"
   }
