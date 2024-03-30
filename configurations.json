@@ -38,6 +38,25 @@
       "base": "base",
       "telos": "telos"
     },
+    "chains_list": {
+      "ethereum": ["https://eth-pokt.nodies.app"],
+      "arbitrum": ["https://endpoints.omniatech.io/v1/arbitrum/one/public"],
+      "optimism": ["https://op-pokt.nodies.app"],
+      "polygon": ["https://polygon-pokt.nodies.app"],
+      "celo": ["https://celo-mainnet-rpc.allthatnode.com"],
+      "gnosis": ["https://gnosis-rpc.publicnode.com"],
+      "harmonyOne": ["https://hmyone-pokt.nodies.app"],
+      "moonbeam": ["https://moonbeam-rpc.publicnode.com"],
+      "avalanchec": ["https://endpoints.omniatech.io/v1/avax/mainnet/public"],
+      "fantom": ["https://rpcapi.fantom.network"],
+      "smartchain": ["https://rpc.ankr.com/bsc"],
+      "aurora": ["https://1rpc.io/aurora"],
+      "goerli": ["https://endpoints.omniatech.io/v1/eth/goerli/public"],
+      "sepolia": ["https://1rpc.io/sepolia"],
+      "bsctestnet": ["https://endpoints.omniatech.io/v1/bsc/testnet/public"],
+      "base": ["https://base-rpc.publicnode.com"],
+      "telos": ["https://mainnet.telos.net/evm"]
+    },
     "chainNames": {
       "ethereum": "Ethereum Mainnet",
       "arbitrum": "Arbitrum One",
