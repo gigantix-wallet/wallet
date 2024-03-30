@@ -114,6 +114,25 @@
       "base": "wss://base-rpc.publicnode.com",
       "telos": "wss://mainnet.telos.net/evm"
     },
+    "gas-type": {
+      "ethereum": "EIP-1559",
+      "arbitrum": "EIP-1559",
+      "optimism": "EIP-1559",
+      "polygon": "EIP-1559",
+      "celo": "EIP-1559",
+      "gnosis": "EIP-1559",
+      "harmonyOne": "EIP-1559",
+      "moonbeam": "EIP-1559",
+      "avalanchec": "EIP-1559",
+      "fantom": "EIP-1559",
+      "smartchain": "BASE",
+      "aurora": "EIP-1559",
+      "goerli": "EIP-1559",
+      "sepolia": "EIP-1559",
+      "bsctestnet": "BASE",
+      "base": "EIP-1559",
+      "telos": "EIP-1559"
+    },
     "explorer": {
       "ethereum": "https://etherscan.io",
       "arbitrum": "https://arbiscan.io",
