@@ -73,7 +73,8 @@
       "goerli": "https://ethereum-goerli.publicnode.com",
       "sepolia": "https://1rpc.io/sepolia",
       "bsctestnet": "https://bsc-testnet.publicnode.com",
-      "base": "https://base-rpc.publicnode.com"
+      "base": "https://base-rpc.publicnode.com",
+      "telos": "https://mainnet.telos.net/evm"
     },
     "wss": {
       "ethereum": "wss://ethereum.publicnode.com",
@@ -91,7 +92,8 @@
       "goerli": "wss://ethereum-goerli.publicnode.com",
       "sepolia": "wss://1rpc.io/sepolia",
       "bsctestnet": "wss://bsc-testnet.publicnode.com",
-      "base": "wss://base-rpc.publicnode.com"
+      "base": "wss://base-rpc.publicnode.com",
+      "telos": "wss://mainnet.telos.net/evm"
     },
     "explorer": {
       "ethereum": "https://etherscan.io",
