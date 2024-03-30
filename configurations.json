@@ -38,7 +38,7 @@
       "base": "base",
       "telos": "telos"
     },
-    "chains_list": {
+    "chains-list": {
       "ethereum": ["https://eth-pokt.nodies.app"],
       "arbitrum": ["https://endpoints.omniatech.io/v1/arbitrum/one/public"],
       "optimism": ["https://op-pokt.nodies.app"],
@@ -57,7 +57,7 @@
       "base": ["https://base-rpc.publicnode.com"],
       "telos": ["https://mainnet.telos.net/evm"]
     },
-    "chainNames": {
+    "chains-name": {
       "ethereum": "Ethereum Mainnet",
       "arbitrum": "Arbitrum One",
       "optimism": "OP Mainnet",
