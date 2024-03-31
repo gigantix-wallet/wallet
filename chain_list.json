@@ -1,0 +1,74 @@
+[
+    {
+        "key": "ethereum",
+        "name": "Ethereum Mainnet",
+        "rpc_url": "https://ethereum.publicnode.com",
+        "chain_id": 1,
+        "currency": "ETH",
+        "block_explorer_url": "https://etherscan.io",
+        "rpc_urls": ["https://eth-pokt.nodies.app"]
+    },
+    {
+        "key": "smartchain",
+        "name": "BNB Smart Chain Mainnet",
+        "rpc_url": "https://bsc.publicnode.com",
+        "chain_id": 56,
+        "currency": "BNB",
+        "block_explorer_url": "https://bscscan.com",
+        "rpc_urls": ["https://rpc.ankr.com/bsc"]
+    },
+    {
+        "key": "polygon",
+        "name": "Polygon Mainnet",
+        "rpc_url": "https://polygon.publicnode.com",
+        "chain_id": 137,
+        "currency": "MATIC",
+        "block_explorer_url": "https://polygonscan.com",
+        "rpc_urls": ["https://polygon-pokt.nodies.app"]
+    },
+    {
+        "key": "avalanchec",
+        "name": "Avalanche C-Chain",
+        "rpc_url": "https://avalanche.publicnode.com",
+        "chain_id": 43114,
+        "currency": "AVAX",
+        "block_explorer_url": "https://snowtrace.io",
+        "rpc_urls": ["https://endpoints.omniatech.io/v1/avax/mainnet/public"]
+    },
+    {
+        "key": "fantom",
+        "name": "Fantom Mainnet",
+        "rpc_url": "https://fantom.publicnode.com",
+        "chain_id": 250,
+        "currency": "FTM",
+        "block_explorer_url": "https://ftmscan.com",
+        "rpc_urls": ["https://rpcapi.fantom.network"]
+    },
+    {
+        "key": "base",
+        "name": "Base Mainnet",
+        "rpc_url": "https://base-rpc.publicnode.com",
+        "chain_id": 8453,
+        "currency": "ETH",
+        "block_explorer_url": "https://basescan.org",
+        "rpc_urls": ["https://base-rpc.publicnode.com"]
+    },
+    {
+        "key": "telos",
+        "name": "Telos EVM Mainnet",
+        "rpc_url": "https://mainnet.telos.net/evm",
+        "chain_id": 40,
+        "currency": "TLOS",
+        "block_explorer_url": "https://teloscan.io",
+        "rpc_urls": ["https://telos.drpc.org"]
+    },
+    {
+        "key": "arbitrum",
+        "name": "Arbitrum One",
+        "rpc_url": "https://arbitrum-one.publicnode.com",
+        "chain_id": 42161,
+        "currency": "ETH_ARB",
+        "block_explorer_url": "https://explorer.arbitrum.io",
+        "rpc_urls": ["https://arbitrum-mainnet.infura.io"]
+    }
+]

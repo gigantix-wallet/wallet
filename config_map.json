@@ -1,0 +1,49 @@
+{
+  "balances": {
+    "ethereum": "0x13675852Ac733AEd5679985778BE5c18E64E97FA",
+    "smartchain": "0xc9bA77C9b27481B6789840A7C3128D4f691f8296",
+    "arbitrum": "0x77e883446e4cDE8955b4ce07DfCf0E9887B0e66c",
+    "optimism": "0xc9bA77C9b27481B6789840A7C3128D4f691f8296",
+    "polygon": "0x8b08FE6F8443f7bBbEde50Ecc8B020d9e44997a2",
+    "celo": "0x5D88da6682B9088B9e31c900Be850de20cF20B11",
+    "gnosis": "0x5D88da6682B9088B9e31c900Be850de20cF20B11",
+    "harmonyOne": "0xc9bA77C9b27481B6789840A7C3128D4f691f8296",
+    "moonbeam": "0x5D88da6682B9088B9e31c900Be850de20cF20B11",
+    "avalanchec": "0xc9bA77C9b27481B6789840A7C3128D4f691f8296",
+    "fantom": "0xc9bA77C9b27481B6789840A7C3128D4f691f8296",
+    "aurora": "0xc9bA77C9b27481B6789840A7C3128D4f691f8296",
+    "goerli": "0x694be3BCecAf1dD69ba91D21c54E22C87882a595",
+    "sepolia": "0x5D88da6682B9088B9e31c900Be850de20cF20B11",
+    "bsctestnet": "0xc9bA77C9b27481B6789840A7C3128D4f691f8296",
+    "base": "0xFCaCC92d23Ed4953566A1a532BeEB31b51931B85",
+    "telos": "0x90BdBC12364979a7807F80c484d39B5b0643c9f1"
+  },
+  "gas-type": {
+    "ethereum": "EIP-1559",
+    "arbitrum": "EIP-1559",
+    "optimism": "EIP-1559",
+    "polygon": "EIP-1559",
+    "celo": "EIP-1559",
+    "gnosis": "EIP-1559",
+    "harmonyOne": "EIP-1559",
+    "moonbeam": "EIP-1559",
+    "avalanchec": "EIP-1559",
+    "fantom": "EIP-1559",
+    "smartchain": "BASE",
+    "aurora": "EIP-1559",
+    "goerli": "EIP-1559",
+    "sepolia": "EIP-1559",
+    "bsctestnet": "BASE",
+    "base": "EIP-1559",
+    "telos": "EIP-1559"
+  },
+  "app": {
+    "version_ios": "2.3.3",
+    "version_android": "2.3.3.111",
+    "build_number_ios": "109",
+    "build_number_android": "111",
+    "version_note": "<p>What&#39;s new ?</p><p>- Staking as a service</p><p>- Bug fixed to update the balance after your assets are managed</p>",
+    "reset_settings": true,
+    "reset_version": "2.3.1"
+  }
+}
