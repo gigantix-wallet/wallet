@@ -54,5 +54,12 @@
         "symbol": "ETH_ARB",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png"
+    },
+    {
+        "key": "goerli",
+        "name": "Goerli",
+        "symbol": "GOR",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/goerlitestnet/info/logo.png"
     }
 ]
