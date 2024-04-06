@@ -70,5 +70,14 @@
         "currency": "ETH_ARB",
         "block_explorer_url": "https://explorer.arbitrum.io",
         "rpc_urls": ["https://arbitrum-mainnet.infura.io"]
+    },
+    {
+        "key": "goerli",
+        "name": "Goerli",
+        "rpc_url": "https://ethereum-goerli.publicnode.com",
+        "chain_id": 5,
+        "currency": "GOR",
+        "block_explorer_url": "https://goerli.etherscan.io",
+        "rpc_urls": ["https://endpoints.omniatech.io/v1/eth/goerli/public"]
     }
 ]
