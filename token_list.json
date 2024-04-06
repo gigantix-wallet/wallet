@@ -8,6 +8,7 @@
     "chartID": "BINANCE:ETHUSDT",
     "priceID": "ethereum",
     "carousel": true,
+    "tokenID": "eth"
   },
   {
     "name": "Binance Coin",
@@ -18,6 +19,7 @@
     "chartID": "BINANCE:BNBUSDT",
     "priceID": "binancecoin",
     "carousel": true,
+    "tokenID": "bnb"
   },
   {
     "name": "Gigantix Wallet Token",
@@ -29,6 +31,7 @@
     "chartID": "UNISWAP:GTXWETH_FF4379.USD",
     "priceID": "gigantix-wallet",
     "carousel": true,
+    "tokenID": "gtx"
   },
   {
     "name": "Kindness For The Soul",
@@ -38,6 +41,7 @@
     "address": "0xdafc45a82c3681d857c6ae36227998190a9b6798",
     "chain": "smartchain",
     "carousel": true,
+    "tokenID": "soul"
   },
   {
     "name": "Kindness For The Soul",
@@ -47,5 +51,6 @@
     "address": "0x05989ecbA308c5c89501862e8E131b7C49f5214d",
     "chain": "smartchain",
     "carousel": true,
+    "tokenID": "kind"
   }
 ]
