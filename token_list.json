@@ -1,46 +1,51 @@
 [
     {
-        "name": "Ethereum",
-        "symbol": "ETH",
-        "decimals": 18,
-        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png",
-        "chain": "ethereum",
-        "chartID": "BINANCE:ETHUSDT",
-        "priceID": "ethereum"
-    },
-    {
-        "name": "Binance Coin",
-        "symbol": "BNB",
-        "decimals": 18,
-        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png",
-        "chain": "smartchain",
-        "chartID": "BINANCE:BNBUSDT",
-        "priceID": "binancecoin"
-    },
-    {
-        "name": "Gigantix Wallet Token",
-        "symbol": "GTX",
-        "decimals": 18,
-        "logo": "https://storage.googleapis.com/gigantix-assets/gtx.png",
-        "address": "0x1c001d1c9e8c7b8dc717c714d30b31480ab360f5",
-        "chain": "ethereum",
-        "chartID": "UNISWAP:GTXWETH_FF4379.USD",
-        "priceID": "gigantix-wallet"
-    },
-    {
-        "name": "Kindness For The Soul",
-        "symbol": "SOUL",
-        "decimals": 18,
-        "logo": "https://storage.googleapis.com/gigantix-assets/tokens/soul-3.png",
-        "address": "0xdafc45a82c3681d857c6ae36227998190a9b6798",
-        "chain": "smartchain"
-    },
-    {
-        "name": "Kindness For The Soul",
-        "symbol": "KIND",
-        "decimals": 9,
-        "logo": "https://storage.googleapis.com/gigantix-assets/tokens/kind-2.png",
-        "address": "0x05989ecbA308c5c89501862e8E131b7C49f5214d",
-        "chain": "smartchain"
-    }
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png",
+    "chain": "ethereum",
+    "chartID": "BINANCE:ETHUSDT",
+    "priceID": "ethereum",
+    "carousel": true,
+  },
+  {
+    "name": "Binance Coin",
+    "symbol": "BNB",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png",
+    "chain": "smartchain",
+    "chartID": "BINANCE:BNBUSDT",
+    "priceID": "binancecoin",
+    "carousel": true,
+  },
+  {
+    "name": "Gigantix Wallet Token",
+    "symbol": "GTX",
+    "decimals": 18,
+    "logo": "https://storage.googleapis.com/gigantix-assets/gtx.png",
+    "address": "0x1c001d1c9e8c7b8dc717c714d30b31480ab360f5",
+    "chain": "ethereum",
+    "chartID": "UNISWAP:GTXWETH_FF4379.USD",
+    "priceID": "gigantix-wallet",
+    "carousel": true,
+  },
+  {
+    "name": "Kindness For The Soul",
+    "symbol": "SOUL",
+    "decimals": 18,
+    "logo": "https://storage.googleapis.com/gigantix-assets/tokens/soul-3.png",
+    "address": "0xdafc45a82c3681d857c6ae36227998190a9b6798",
+    "chain": "smartchain",
+    "carousel": true,
+  },
+  {
+    "name": "Kindness For The Soul",
+    "symbol": "KIND",
+    "decimals": 9,
+    "logo": "https://storage.googleapis.com/gigantix-assets/tokens/kind-2.png",
+    "address": "0x05989ecbA308c5c89501862e8E131b7C49f5214d",
+    "chain": "smartchain",
+    "carousel": true,
+  }
 ]
