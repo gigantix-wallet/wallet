@@ -18,15 +18,6 @@
         "priceID": "binancecoin"
     },
     {
-        "name": "Polygon",
-        "symbol": "MATIC",
-        "decimals": 18,
-        "logo": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png",
-        "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
-        "chain": "ethereum",
-        "priceID": "matic-network"
-    },
-    {
         "name": "Gigantix Wallet Token",
         "symbol": "GTX",
         "decimals": 18,
