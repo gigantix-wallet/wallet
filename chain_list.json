@@ -74,7 +74,7 @@
     {
         "key": "goerli",
         "name": "Goerli",
-        "rpc_url": "https://ethereum-goerli.publicnode.com",
+        "rpc_url": "https://goerli.blockpi.network/v1/rpc/public",
         "chain_id": 5,
         "currency": "GOR",
         "block_explorer_url": "https://goerli.etherscan.io",
