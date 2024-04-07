@@ -61,5 +61,12 @@
         "symbol": "GOR",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/goerlitestnet/info/logo.png"
-    }
+    },
+    {
+        "key": "bsctestnet",
+        "name": "Binance Coin Testnet",
+        "symbol": "tBNB",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
+    },
 ]
