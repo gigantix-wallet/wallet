@@ -1,0 +1,97 @@
+[
+    {
+        "title": "What is Gigantix Wallet?",
+        "content": "Gigantix Wallet is an innovative cold wallet solution that leverages NFC-enabled cards to transform everyday cards like ATM, credit, or debit cards into secure and user-friendly cold wallets for managing digital assets.",
+        "link": "https://medium.com/@coinfoin/turn-your-nfc-enabled-card-into-a-cold-wallet-with-gigantix-wallet-gtxarticlecompetition-5c24cef7ca4d",
+        "isExternal": true
+    },
+    {
+        "title": "How does Gigantix Wallet enhance security for cryptocurrency storage?",
+        "content": "Gigantix Wallet enhances security through a robust combination of encrypted The NFC Identifier and encrypted PIN, multi-layered encryption and authentication processes, and leveraging the inherent security features of everyday cards for the protection of users' private keys."
+    },
+    {
+        "title": "What are the unique features of Gigantix Wallet?",
+        "content": "Unique features of xGigantix Wallet include the ability to convert everyday NFC-enabled cards into cold wallets, user control over private keys, and the introduction of stylish NFC accessories like bracelets and rings that double as cold wallets."
+    },
+    {
+        "title": "What NFC tag type can support read by Gigantix Wallet?",
+        "content": "List of NFC tag types can support read by Gigantix Wallet:",
+        "markupContent": "<p>List of NFC tag types can support read by Gigantix Wallet:</p><ul><li>Ndef</li><li>FeliCa (iOS only)</li><li>Iso7816 (iOS only)</li><li>Iso15693 (iOS only)</li><li>MiFare (iOS only)</li><li>NfcA (Android only)</li><li>NfcB (Android only)</li><li>NfcF (Android only)</li><li>NfcV (Android only)</li><li>IsoDep (Android only)</li><li>MifareClassic (Android only)</li><li>MifareUtralight (Android only)</li><li>NdefFormatable (Android only)</li></ul><p>&nbsp;</p>"
+    },
+    {
+        "title": "Can Gigantix Wallet be used with multiple types of cards?",
+        "content": "Yes, Gigantix Wallet's technology is compatible with various NFC-enabled cards, including ATM, credit, and debit cards, offering a versatile and convenient way to manage digital assets"
+    },
+    {
+        "title": "If the NFC card is lost, what should be done?",
+        "content": "Please make sure you have backed up the private key of the wallet associated with the lost card.",
+        "markupContent": "<p>To ensure the safety of your wallet, it's essential to know how to back it up. Refer to our guide on&nbsp;<a href=\"https://medium.com/@gigantix.wallet/how-to-backup-your-wallet-on-gigantix-wallet-d09bae215a94\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>How to backup your wallet on Gigantix Wallet</strong></a></p>"
+    },
+    {
+        "title": "How to Recover your wallet after losing your NFC card?",
+        "content": "Gigantix Wallet has a feature for backing up wallets by allowing users to export their private wallet keys. For those of you who have lost access to the Gigantix Wallet application or lost your NFC-enabled card, and you have your private wallet key, you can still recover your wallet",
+        "markupContent": "<p>To learn how to Recover your wallet, please visit our detailed guide on&nbsp;<a href=\"https://medium.com/@gigantix.wallet/how-to-recover-or-import-private-key-in-metamask-d84cae5ad3d2\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>How to Recover or Import Private Key in Metamask</strong></a></p>"
+    },
+    {
+        "title": "How to Buy $GTX Token on Uniswap with Trust Wallet?",
+        "content": "Gigantix Wallet is a cryptocurrency wallet that allows you to securely store and manage various cryptocurrencies. Gigantix Wallet has an ecosystem token called GTX. GTX is a cryptocurrency token that you can purchase on Uniswap, a decentralized exchange using Trust Wallet",
+        "markupContent": "<p>To learn how to Buy $GTX Token, please visit our detailed guide on&nbsp;<a href=\"https://medium.com/@gigantix.wallet/how-to-buy-gtx-token-on-uniswap-with-trust-wallet-3e1d95979d23\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>How to Buy $GTX Token on Uniswap with Trust Wallet</strong></a></p>"
+    },
+    {
+        "title": "How does Gigantix Wallet compare to traditional wallets?",
+        "content": "Gigantix Wallet stands out from traditional wallets by offering seamless and convenient access using everyday cards, enhanced security against cyber threats, and user-friendly features."
+    },
+    {
+        "title": "What is the GTX Token and its role in the Gigantix ecosystem?",
+        "content": "The GTX Token is a digital asset that symbolizes ownership shares in Gigantix, offering holders proportional benefits and opportunities to participate in the ecosystem's growth. It is used for staking and accessing revenue streams within the Gigantix platform."
+    },
+    {
+        "title": "What is the revenue-sharing model in Gigantix Wallet?",
+        "content": "Gigantix Wallet incorporates a revenue-sharing model, particularly with its NFC wearables, where 50% of the revenue earned through transactions made with these accessories is shared back with the token holders."
+    },
+    {
+        "title": "What is the roadmap for Gigantix Wallet's development?",
+        "content": "The roadmap includes continuous development of mobile apps, airdrop campaigns, introduction of GTX Staking, regular updates through Gigantix Call, multiple security audits, and the introduction of Tap-to-Pay features.",
+        "markupContent": "<p>To learn see Gigantix Roadmap, please visit our website &nbsp;<a href='https://www.gigantix-wallet.com/'><strong>www.gigantix-wallet.com</strong></a></p>"
+    },
+    {
+        "title": "Where can I download Gigantix Wallet?",
+        "content": "You can download Gigantix Wallet from Google Play and App Store:",
+        "markupContent": "<ul class=\"ml-4 list-disc\"><li><a href=\"https://play.google.com/store/apps/details?id=com.gigantix.wallet\" target=\"_blank\" rel=\"noopener noreferrer\">Google Play</a></li><li><a href=\"https://apps.apple.com/us/app/gigantix-wallet/id1548194199\" target=\"_blank\" rel=\"noopener noreferrer\">App Store</a></li></ul>"
+    },
+    {
+        "title": "How to install Gigantix Wallet on iOS?",
+        "content": "",
+        "markupContent": "<p>To learn how to install Gigantix Wallet on iOS devices, please visit our detailed guide on&nbsp;<a href='https://medium.com/@gigantix.wallet/how-to-install-gigantix-wallet-on-ios-991ffc8b1c6b'><strong>How to Install Gigantix Wallet on iOS</strong></a></p>"
+    },
+    {
+        "title": "How to install Gigantix Wallet on android?",
+        "content": "",
+        "markupContent": "<p>For instructions on installing Gigantix Wallet on Android devices, follow our comprehensive guide on&nbsp;<a href=\"https://medium.com/@gigantix.wallet/how-to-install-gigantix-wallet-on-android-370caebcfd51\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>How to install Gigantix Wallet on android</strong></a></p>"
+    },
+    {
+        "title": "How to tap an NFC card on android and iOS?",
+        "content": "Discover how to tap an NFC card on both Android and iOS by referring to our step-by-step guide on",
+        "markupContent": "<p>&nbsp;<a href=\"https://medium.com/@gigantix.wallet/how-to-tap-an-nfc-card-on-android-and-ios-006826c6217e\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>How to tap an NFC card on android and iOS</strong></a></p>"
+    },
+    {
+        "title": "How to create a wallet on Gigantix Wallet for iOS user?",
+        "content": "",
+        "markupContent": "<p>iOS users can create a wallet on Gigantix Wallet by following our detailed instructions provided in the guide on&nbsp;<a href=\"https://medium.com/@gigantix.wallet/how-to-create-a-wallet-on-gigantix-wallet-for-ios-715de05e85fa\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>How to create a wallet on Gigantix Wallet for iOS user</strong></a></p>"
+    },
+    {
+        "title": "How to create a wallet on Gigantix Wallet for android user?",
+        "content": "",
+        "markupContent": "<p>For Android users seeking to create a wallet on Gigantix Wallet, please consult our comprehensive guide on&nbsp;<a href=\"https://medium.com/@gigantix.wallet/how-to-create-a-wallet-on-gigantix-wallet-for-android-98afde08a454\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>How to create a wallet on Gigantix Wallet for android user</strong></a></p>"
+    },
+    {
+        "title": "How to backup your wallet on Gigantix Wallet?",
+        "content": "",
+        "markupContent": "<p>To ensure the safety of your wallet, it's essential to know how to back it up. Refer to our guide on&nbsp;<a href=\"https://medium.com/@gigantix.wallet/how-to-backup-your-wallet-on-gigantix-wallet-d09bae215a94\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>How to backup your wallet on Gigantix Wallet</strong></a></p>"
+    },
+    {
+        "title": "How to receive and send digital assets in Gigantix Wallet?",
+        "content": "",
+        "markupContent": "<p>Learn how to receive and send digital assets with Gigantix Wallet by visiting our step-by-step guide on&nbsp;<a href=\"https://medium.com/@gigantix.wallet/how-to-receive-and-send-digital-assets-in-gigantix-wallet-09d402b09452\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>How to receive and send digital assets in Gigantix Wallet</strong></a></p>"
+    }
+]
