@@ -88,5 +88,5 @@
         "currency": "tBNB",
         "block_explorer_url": "https://testnet.bscscan.com",
         "rpc_urls": ["https://bsc-testnet-rpc.publicnode.com"]
-    },
+    }
 ]
