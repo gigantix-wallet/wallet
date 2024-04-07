@@ -4,69 +4,77 @@
         "name": "Ethereum",
         "symbol": "ETH",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png"
+        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png",
+        "priceID": "ethereum"
     },
     {
         "key": "smartchain",
         "name": "Binance Coin",
         "symbol": "BNB",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
+        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png",
+        "priceID": "binancecoin"
     },
     {
         "key": "polygon",
         "name": "Polygon",
         "symbol": "MATIC",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/info/logo.png"
+        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/info/logo.png",
+        "priceID": "matic-network"
     },
     {
         "key": "avalanchec",
         "name": "Avalanche",
         "symbol": "AVAX",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/info/logo.png"
+        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/info/logo.png",
+        "priceID": "avalanche-2"
     },
     {
         "key": "fantom",
         "name": "Fantom",
         "symbol": "FTM",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/fantom/info/logo.png"
+        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/fantom/info/logo.png"
     },
     {
         "key": "base",
         "name": "Ethereum Base",
         "symbol": "ETH_BASE",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png"
+        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png",
+        "priceID": "ethereum"
     },
     {
         "key": "telos",
         "name": "Telos",
         "symbol": "TLOS",
         "decimals": 18,
-        "logoURI": "https://storage.googleapis.com/gigantix-assets/chains/telos.png"
+        "logo": "https://storage.googleapis.com/gigantix-assets/chains/telos.png"
     },
     {
         "key": "arbitrum",
         "name": "Ethereum Arbitrum",
         "symbol": "ETH_ARB",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png"
+        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png",
+        "priceID": "ethereum"
     },
     {
         "key": "goerli",
         "name": "Goerli",
         "symbol": "GOR",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/goerlitestnet/info/logo.png"
+        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/goerlitestnet/info/logo.png",
+        "priceID": "ethereum"
     },
     {
         "key": "bsctestnet",
         "name": "Binance Coin Testnet",
         "symbol": "tBNB",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
+        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png",
+        "priceID": "binancecoin"
     }
 ]
