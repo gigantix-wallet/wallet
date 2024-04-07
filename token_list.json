@@ -52,5 +52,15 @@
     "chain": "smartchain",
     "carousel": true,
     "tokenID": "kind"
-  }
+  },
+  {
+    "name": "Telos",
+    "symbol": "TLOS",
+    "decimals": 18,
+    "logo": "https://storage.googleapis.com/gigantix-assets/tokens/telos.png",
+    "chain": "telos",
+    "priceID": "CMC:4660",
+    "tokenID": "telos",
+    "chartID": "CRYPTO:TLOSUSD"
+   }
 ]
