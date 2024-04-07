@@ -79,5 +79,14 @@
         "currency": "GOR",
         "block_explorer_url": "https://goerli.etherscan.io",
         "rpc_urls": ["https://endpoints.omniatech.io/v1/eth/goerli/public"]
-    }
+    },
+    {
+        "key": "bsctestnet",
+        "name": "BNB Smart Chain Testnet",
+        "rpc_url": "https://public.stackup.sh/api/v1/node/bsc-testnet",
+        "chain_id": 56,
+        "currency": "tBNB",
+        "block_explorer_url": "https://testnet.bscscan.com",
+        "rpc_urls": ["https://bsc-testnet-rpc.publicnode.com"]
+    },
 ]
