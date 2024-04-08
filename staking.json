@@ -21,7 +21,8 @@
             "address": "0xa3b4AeE7B43B2Fb390420c411ec180B0ae87E9da",
             "chain": "telos",
             "tokenID": "souls",
-            "rewardID": "souls"
+            "stakingContract": "0x5ADae88EAA820D8191358127329B0ABc82ec8899",
+            "rewardID": "souls",
         },
         {
             "name": "Kindness For The Soul",
@@ -31,6 +32,7 @@
             "address": "0x143AA2070E3b5414c68A93Ba0A99BAC8847Cbe99",
             "chain": "telos",
             "tokenID": "kinds",
+            "stakingContract": "0xB4efD49d79b6D92fc6e141aB6fFf3fC3117a13E0",
             "rewardID": "kinds"
         },
         {
