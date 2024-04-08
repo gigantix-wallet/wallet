@@ -43,6 +43,7 @@
             "address": "0x109548dc14C0b8d7908A168202a4AB08BB449613",
             "chain": "ethereum",
             "tokenID": "cby",
+            "stakingContract": "0xbcC92614fFc7AbC2C45b9D41B59c4EF160472038",
             "rewardID": "gtx"
         }
     ],
