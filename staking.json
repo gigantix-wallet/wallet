@@ -1,91 +1,71 @@
 {
-    "tokens": [
-        {
-            "name": "Gigantix Wallet Token",
-            "symbol": "GTX",
-            "decimals": 18,
-            "logo": "https://storage.googleapis.com/gigantix-assets/gtx.png",
-            "address": "0x1c001d1c9e8c7b8dc717c714d30b31480ab360f5",
-            "chain": "ethereum",
-            "chartID": "UNISWAP:GTXWETH_FF4379.USD",
-            "priceID": "gigantix-wallet",
-            "tokenID": "gtx",
-            "stakingContract": "0xF0BA817bAf42f4084BE06d11a8d24efE3e703D5B",
-            "rewardID": "usdc_ethereum"
-        },
-        {
-            "name": "Kindness For The Soul",
-            "symbol": "SOULS",
-            "decimals": 18,
-            "logo": "https://storage.googleapis.com/gigantix-assets/tokens/soul-3.png",
-            "address": "0xa3b4AeE7B43B2Fb390420c411ec180B0ae87E9da",
-            "chain": "telos",
-            "tokenID": "souls",
-            "stakingContract": "0x5ADae88EAA820D8191358127329B0ABc82ec8899",
-            "rewardID": "souls",
-        },
-        {
-            "name": "Kindness For The Soul",
-            "symbol": "KINDS",
-            "decimals": 18,
-            "logo": "https://storage.googleapis.com/gigantix-assets/tokens/kind-2.png",
-            "address": "0x143AA2070E3b5414c68A93Ba0A99BAC8847Cbe99",
-            "chain": "telos",
-            "tokenID": "kinds",
-            "stakingContract": "0xB4efD49d79b6D92fc6e141aB6fFf3fC3117a13E0",
-            "rewardID": "kinds"
-        },
-        {
-            "name": "Cloud Binary",
-            "symbol": "CBY",
-            "decimals": 18,
-            "logo": "https://storage.googleapis.com/gigantix-assets/tokens/cloudbinary.png",
-            "address": "0x109548dc14C0b8d7908A168202a4AB08BB449613",
-            "chain": "ethereum",
-            "tokenID": "cby",
-            "stakingContract": "0xbcC92614fFc7AbC2C45b9D41B59c4EF160472038",
-            "rewardID": "gtx"
-        }
-    ],
-    "rewards": [
-        {
-            "name": "USD Coin",
-            "symbol": "USDC",
-            "decimals": 6,
-            "logo": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
-            "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-            "chain": "ethereum",
-            "priceID": "CMC:3408",
-            "tokenID": "usdc_ethereum"
-        },
-        {
-            "name": "Gigantix Wallet Token",
-            "symbol": "GTX",
-            "decimals": 18,
-            "logo": "https://storage.googleapis.com/gigantix-assets/gtx.png",
-            "address": "0x1c001d1c9e8c7b8dc717c714d30b31480ab360f5",
-            "chain": "ethereum",
-            "chartID": "UNISWAP:GTXWETH_FF4379.USD",
-            "priceID": "gigantix-wallet",
-            "tokenID": "gtx"
-        },
-        {
-            "name": "Kindness For The Soul",
-            "symbol": "SOULS",
-            "decimals": 18,
-            "logo": "https://storage.googleapis.com/gigantix-assets/tokens/soul-3.png",
-            "address": "0xa3b4AeE7B43B2Fb390420c411ec180B0ae87E9da",
-            "chain": "telos",
-            "tokenID": "souls"
-        },
-        {
-            "name": "Kindness For The Soul",
-            "symbol": "KINDS",
-            "decimals": 18,
-            "logo": "https://storage.googleapis.com/gigantix-assets/tokens/kind-2.png",
-            "address": "0x143AA2070E3b5414c68A93Ba0A99BAC8847Cbe99",
-            "chain": "telos",
-            "tokenID": "kinds"
-        }
-    ]
+  "tokens": [
+    {
+      "name": "Gigantix Wallet Token",
+      "symbol": "GTX",
+      "decimals": 18,
+      "logo": "https://storage.googleapis.com/gigantix-assets/gtx.png",
+      "address": "0x1c001d1c9e8c7b8dc717c714d30b31480ab360f5",
+      "chain": "ethereum",
+      "chartID": "UNISWAP:GTXWETH_FF4379.USD",
+      "priceID": "gigantix-wallet",
+      "tokenID": "gtx",
+      "stakingContract": "0xF0BA817bAf42f4084BE06d11a8d24efE3e703D5B",
+      "rewardID": "usdc_ethereum"
+    },
+    {
+      "name": "Kindness For The Soul",
+      "symbol": "SOULS",
+      "decimals": 18,
+      "logo": "https://storage.googleapis.com/gigantix-assets/tokens/soul-3.png",
+      "address": "0xa3b4AeE7B43B2Fb390420c411ec180B0ae87E9da",
+      "chain": "telos",
+      "tokenID": "souls",
+      "stakingContract": "0x5ADae88EAA820D8191358127329B0ABc82ec8899",
+      "rewardID": "souls"
+    },
+    {
+      "name": "Kindness For The Soul",
+      "symbol": "KINDS",
+      "decimals": 18,
+      "logo": "https://storage.googleapis.com/gigantix-assets/tokens/kind-2.png",
+      "address": "0x143AA2070E3b5414c68A93Ba0A99BAC8847Cbe99",
+      "chain": "telos",
+      "tokenID": "kinds",
+      "stakingContract": "0xB4efD49d79b6D92fc6e141aB6fFf3fC3117a13E0",
+      "rewardID": "kinds"
+    }
+  ],
+  "rewards": [
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logo": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "chain": "ethereum",
+      "priceID": "CMC:3408",
+      "tokenID": "usdc_ethereum"
+    },
+    {
+      "name": "Gigantix Wallet Token",
+      "symbol": "GTX",
+      "decimals": 18,
+      "logo": "https://storage.googleapis.com/gigantix-assets/gtx.png",
+      "address": "0x1c001d1c9e8c7b8dc717c714d30b31480ab360f5",
+      "chain": "ethereum",
+      "chartID": "UNISWAP:GTXWETH_FF4379.USD",
+      "priceID": "gigantix-wallet",
+      "tokenID": "gtx"
+    },
+    {
+      "name": "Kindness For The Soul",
+      "symbol": "SOULS",
+      "decimals": 18,
+      "logo": "https://storage.googleapis.com/gigantix-assets/tokens/soul-3.png",
+      "address": "0xa3b4AeE7B43B2Fb390420c411ec180B0ae87E9da",
+      "chain": "telos",
+      "tokenID": "souls"
+    }
+  ]
 }
